@@ -13,16 +13,16 @@ ___
 - University of Oregon Clark Honors College Thesis (Undergraduate): *Relationships Between Blockchain Consensus Parameters and Network Externalities*
 ___
 ### Skills
-Computational:
-- **R** dplyr, ggplot2, tidyverse, tidymodels, keras, rddtools, rdrobust, fixest
-- **Python** scikit-learn, pytorch, xgboost
+Computational
+- **R**: dplyr, ggplot2, tidyverse, tidymodels, keras, rddtools, rdrobust, fixest
+- **Python**: scikit-learn, pytorch, xgboost
 
-Computational (Design):
+Computational (Design)
 - **LaTeX**
 - **Markdown**
 - **Microsoft Suite**
 
-Miscellaneous:
+Miscellaneous
 - **PADI Certified**
 - **FAA Student Pilot Certificate**
 
