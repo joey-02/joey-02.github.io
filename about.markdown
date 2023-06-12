@@ -4,15 +4,28 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+#1L at Boston University School of Law
+___
+### Activities and Interests
+___
+### Research Papers
+- University of Oregon Economics Deparmental Honors Thesis (Undergraduate): *Practical Problems of Statistical Learning*
+- University of Oregon Clark Honors College Thesis (Undergraduate): *Relationships Between Blockchain Consensus Parameters and Network Externalities*
+___
+### Skills
+Computational:
+- **R** dplyr, ggplot2, tidyverse, tidymodels, keras, rddtools, rdrobust, fixest
+- **Python** scikit-learn, pytorch, xgboost
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Computational (Design):
+- **LaTeX**
+- **Markdown**
+- **Microsoft Suite**
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Miscellaneous:
+- **PADI Certified**
+- **FAA Student Pilot Certificate**
 
-
-[jekyll-organization]: https://github.com/jekyll
+___
+### Awards
+- Phi Beta Kappa
