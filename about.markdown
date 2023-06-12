@@ -16,6 +16,8 @@ ___
 ___
 ### Skills
 **Computational**: R (dplyr, ggplot2, tidyverse, tidymodels, keras, rddtools, rdrobust, fixest), Python (scikit-learn, pytorch, xgboost)
+
 **Design**: LaTeX, Markdown, Microsoft Suite
+
 **Miscellaneous**: PADI Certified, FAA Student Pilot Certificate
 
