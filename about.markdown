@@ -4,11 +4,14 @@ title: About
 permalink: /about/
 ---
 ### Interests
-**Topics:** Computer hardware, programming, blockchains, cryptography, distributed systems, AI/ML, causal inference, and law
+**Topics:** 
+> Computer hardware, programming, blockchains, cryptography, distributed systems, AI/ML, causal inference, and law
 
-**Favorite blogs/journals:** Scott Aaronson, Vitalik Buterin, Andrew Gelman, John Cochrane, Hacker News, ArXiV, IACR, NBER
+**Favorite blogs/journals:** 
+> Scott Aaronson, Vitalik Buterin, Andrew Gelman, John Cochrane, Hacker News, ArXiV, IACR, NBER
 
-**Non-academic things:** Basketball, aviation, football, swimming, biking, canoeing
+**Non-academic things:** 
+> Basketball, aviation, football, swimming, biking, canoeing
 
 ### Research Papers
 - University of Oregon Economics Deparmental Honors Thesis (Undergraduate): *Practical Problems of Statistical Learning*
