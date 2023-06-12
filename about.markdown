@@ -12,7 +12,7 @@ permalink: /about/
 > **Non-academic things:** Basketball, aviation, football, swimming, biking, canoeing
 
 ### Research Papers
-> University of Oregon Economics Deparmental Honors Thesis (Undergraduate): *Practical Problems of Statistical Learning*
+> University of Oregon Economics Departmental Honors Thesis (Undergraduate): *Practical Problems of Statistical Learning*
 
 > University of Oregon Clark Honors College Thesis (Undergraduate): *Relationships Between Blockchain Consensus Parameters and Network Externalities*
 
