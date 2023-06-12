@@ -17,7 +17,7 @@ Computational
 - **R**: dplyr, ggplot2, tidyverse, tidymodels, keras, rddtools, rdrobust, fixest
 - **Python**: scikit-learn, pytorch, xgboost
 
-Computational (Design)
+Design
 - **LaTeX**
 - **Markdown**
 - **Microsoft Suite**
