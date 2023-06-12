@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 ### Interests
-**Things I find interesting:** Computer hardware, programming, blockchains, cryptography, distributed systems, AI/ML, causal inference, and law
+**Topics:** Computer hardware, programming, blockchains, cryptography, distributed systems, AI/ML, causal inference, and law
 
 **Favorite blogs/journals:** Scott Aaronson, Vitalik Buterin, Andrew Gelman, John Cochrane, Hacker News, ArXiV, IACR, NBER
 
