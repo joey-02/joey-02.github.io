@@ -6,7 +6,7 @@ permalink: /about/
 ### Interests
 > **Topics:** Computer hardware, programming, blockchains, cryptography, distributed systems, AI/ML, causal inference, and law
 
-> **Favorite blogs/journals:** Scott Aaronson, Vitalik Buterin, Andrew Gelman, John Cochrane, Hacker News, ArXiV, IACR, NBER
+> **Favorite blogs/journals:** Scott Aaronson, Vitalik Buterin, Andrew Gelman, John Cochrane, Hacker News, ArXiV (cs.AI/recent), IACR, NBER
 
 
 > **Non-academic things:** Basketball, aviation, football, swimming, biking, canoeing
