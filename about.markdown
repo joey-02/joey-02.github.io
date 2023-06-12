@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-#1L at Boston University School of Law
+# 1L at Boston University School of Law
 ___
 ### Activities and Interests
 ___
