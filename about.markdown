@@ -6,6 +6,7 @@ permalink: /about/
 ### Interests
 <details>
   <summary>Topics</summary>
+  
   In the order I started learning about them: Computer hardware, programming, blockchains, cryptography, distributed systems, AI/ML, causal inference, law
  
   ```js
