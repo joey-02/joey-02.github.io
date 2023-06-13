@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Graduation"
+title:  "Graduation/My Review of Economics"
 date:   2023-06-13 13:14:52 -0700
 categories: jekyll update
 ---
