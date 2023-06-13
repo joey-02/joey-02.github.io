@@ -57,8 +57,6 @@ permalink: /about/
   
   - Basketball
   
-  - Aviation
-  
   - Football
   
   - Swimming
