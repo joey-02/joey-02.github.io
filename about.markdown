@@ -67,6 +67,7 @@ permalink: /about/
  
 </details>
 
+
 ### Research Papers
 1. University of Oregon Economics Departmental Honors Thesis (Undergraduate): *Practical Problems of Statistical Learning* [https://arxiv.org/abs/2306.06518](https://arxiv.org/abs/2306.06518)
 
