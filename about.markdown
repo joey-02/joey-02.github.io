@@ -6,15 +6,7 @@ permalink: /about/
 ### Interests
 <details>
   <summary>Topics</summary>
-  In the order I started learning about them:
-  - Computer hardware
-  - programming
-  - blockchains 
-  - cryptography
-  - distributed systems
-  - AI/ML
-  - causal inference
-  - law
+  In the order I started learning about them: Computer hardware, programming, blockchains, cryptography, distributed systems, AI/ML, causal inference, law
  
   ```js
   function logSomething(something) {
@@ -25,7 +17,6 @@ permalink: /about/
 
 
 
-> **Topics:** Computer hardware, programming, blockchains, cryptography, distributed systems, AI/ML, causal inference, and law
 
 > **Favorite blogs/journals:** Scott Aaronson, Vitalik Buterin, Andrew Gelman, John Cochrane, Hacker News, Gwern, ArXiV (cs.AI/recent), IACR, NBER
 
