@@ -9,7 +9,9 @@ permalink: /about/
   
   In the order I started learning about them: 
   
-  Computer hardware, programming, blockchains, cryptography, distributed systems, AI/ML, causal inference, law
+  - Computer hardware
+  
+  - programming, blockchains, cryptography, distributed systems, AI/ML, causal inference, law
  
 </details>
 
