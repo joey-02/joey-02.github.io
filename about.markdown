@@ -14,7 +14,7 @@ permalink: /about/
 ### Research Papers
 > University of Oregon Economics Departmental Honors Thesis (Undergraduate): *Practical Problems of Statistical Learning*
 
-> University of Oregon Clark Honors College Thesis (Undergraduate): *Relationships Between Blockchain Consensus Parameters and Network Externalities*
+> University of Oregon Clark Honors College Thesis (Undergraduate): *Relationships Between Blockchain Consensus Parameters and Network Externalities* https://arxiv.org/abs/2306.06518
 
 ### Skills
 > **Computational**: R (dplyr, ggplot2, tidyverse, tidymodels, keras, rddtools, rdrobust, fixest), Python (scikit-learn, pytorch, xgboost)
