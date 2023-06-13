@@ -53,7 +53,7 @@ permalink: /about/
 </details>
 
 <details>
-  <summary>Non-academic things</summary>
+  <summary>Non-academic things I enjoy</summary>
   
   - Basketball
   
